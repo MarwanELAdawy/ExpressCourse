@@ -21,7 +21,7 @@ var commentSchema = new schema({
     }
 },{
     timestamps:true
-})
+});
 var dishSchema = new schema({
     name:{
         type: String,
